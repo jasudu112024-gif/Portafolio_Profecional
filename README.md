@@ -48,7 +48,7 @@ El diseño fue concebido con un estilo moderno, minimalista e interactivo, aplic
 
 Puedes visualizar la versión en vivo de este portafolio ingresando al siguiente enlace:
 
-👉 **[Ver Portafolio Online]([https://jasudu112024-gif.github.io/Portafolio_Profecional/])** *(o la URL asignada por GitHub Pages)
+👉 **[Ver Portafolio Online](https://jasudu112024-gif.github.io/Portafolio_Profecional/)** *(o la URL asignada por GitHub Pages)
 
 ---
 
